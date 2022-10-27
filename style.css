@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://images.vexels.com/media/users/3/148171/isolated/preview/b4ad26cf6cc8ad39b0923cf65e1ea540-vector-de-fondo-abstracto-rectangulo.png);
+    background-repeat: no-repeat ;
+    background-size: 960px;}
+    
+p{
+    font-size: 100px;
+    color: rgb(255, 43, 43);
+    background-color: gray;
+}
+h3{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+
+}
+h4{
+    font-size: 50px;
+    color: rgb(255, 43, 43);
+    background-color: gray;
+}
+h5{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    
+
+
